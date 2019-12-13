@@ -1,0 +1,56 @@
+C:\Users\Meow\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\TakeLessons.Form1.resources
+C:\Users\Meow\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\TakeLessons.main.resources
+C:\Users\Meow\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\TakeLessons.Properties.Resources.resources
+C:\Users\Meow\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\TakeLessons.csproj.GenerateResource.cache
+C:\Users\Meow\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\TakeLessons.csproj.CoreCompileInputs.cache
+C:\Users\Meow\Desktop\winform抢课\TakeLessons\TakeLessons\bin\Debug\ZQU抢课.exe.config
+C:\Users\Meow\Desktop\winform抢课\TakeLessons\TakeLessons\bin\Debug\ZQU抢课.exe.manifest
+C:\Users\Meow\Desktop\winform抢课\TakeLessons\TakeLessons\bin\Debug\ZQU抢课.application
+C:\Users\Meow\Desktop\winform抢课\TakeLessons\TakeLessons\bin\Debug\ZQU抢课.exe
+C:\Users\Meow\Desktop\winform抢课\TakeLessons\TakeLessons\bin\Debug\ZQU抢课.pdb
+C:\Users\Meow\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\ZQU抢课.exe.manifest
+C:\Users\Meow\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\ZQU抢课.application
+C:\Users\Meow\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\ZQU抢课.exe
+C:\Users\Meow\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\ZQU抢课.pdb
+C:\Users\10289\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\TakeLessons.Form1.resources
+C:\Users\10289\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\TakeLessons.main.resources
+C:\Users\10289\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\TakeLessons.Properties.Resources.resources
+C:\Users\10289\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\TakeLessons.csproj.GenerateResource.cache
+C:\Users\10289\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\TakeLessons.csproj.CoreCompileInputs.cache
+C:\Users\10289\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\ZQU抢课.exe.manifest
+C:\Users\10289\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\ZQU抢课.exe
+C:\Users\10289\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\ZQU抢课.pdb
+C:\Users\10289\Desktop\winform抢课\TakeLessons\TakeLessons\bin\Debug\ZQU抢课.exe.config
+C:\Users\10289\Desktop\winform抢课\TakeLessons\TakeLessons\bin\Debug\ZQU抢课.exe.manifest
+C:\Users\10289\Desktop\winform抢课\TakeLessons\TakeLessons\bin\Debug\ZQU抢课.application
+C:\Users\10289\Desktop\winform抢课\TakeLessons\TakeLessons\bin\Debug\ZQU抢课.exe
+C:\Users\10289\Desktop\winform抢课\TakeLessons\TakeLessons\bin\Debug\ZQU抢课.pdb
+C:\Users\10289\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\ZQU抢课.application
+C:\Users\10289\Desktop\winform抢课\TakeLessons\TakeLessons\obj\Debug\TakeLessons.csprojAssemblyReference.cache
+C:\Users\10289\Desktop\winform抢课\TakeLessons - 0.4新版\TakeLessons\bin\Debug\ZQU抢课.exe.config
+C:\Users\10289\Desktop\winform抢课\TakeLessons - 0.4新版\TakeLessons\bin\Debug\ZQU抢课.exe.manifest
+C:\Users\10289\Desktop\winform抢课\TakeLessons - 0.4新版\TakeLessons\bin\Debug\ZQU抢课.application
+C:\Users\10289\Desktop\winform抢课\TakeLessons - 0.4新版\TakeLessons\bin\Debug\ZQU抢课.exe
+C:\Users\10289\Desktop\winform抢课\TakeLessons - 0.4新版\TakeLessons\bin\Debug\ZQU抢课.pdb
+C:\Users\10289\Desktop\winform抢课\TakeLessons - 0.4新版\TakeLessons\obj\Debug\TakeLessons.Form1.resources
+C:\Users\10289\Desktop\winform抢课\TakeLessons - 0.4新版\TakeLessons\obj\Debug\TakeLessons.main.resources
+C:\Users\10289\Desktop\winform抢课\TakeLessons - 0.4新版\TakeLessons\obj\Debug\TakeLessons.Properties.Resources.resources
+C:\Users\10289\Desktop\winform抢课\TakeLessons - 0.4新版\TakeLessons\obj\Debug\TakeLessons.csproj.GenerateResource.cache
+C:\Users\10289\Desktop\winform抢课\TakeLessons - 0.4新版\TakeLessons\obj\Debug\TakeLessons.csproj.CoreCompileInputs.cache
+C:\Users\10289\Desktop\winform抢课\TakeLessons - 0.4新版\TakeLessons\obj\Debug\ZQU抢课.exe.manifest
+C:\Users\10289\Desktop\winform抢课\TakeLessons - 0.4新版\TakeLessons\obj\Debug\ZQU抢课.application
+C:\Users\10289\Desktop\winform抢课\TakeLessons - 0.4新版\TakeLessons\obj\Debug\ZQU抢课.exe
+C:\Users\10289\Desktop\winform抢课\TakeLessons - 0.4新版\TakeLessons\obj\Debug\ZQU抢课.pdb
+C:\Users\10289\Desktop\winform抢课\TakeLessons - 0.4新版\TakeLessons\obj\Debug\TakeLessons.csprojAssemblyReference.cache
+C:\Users\zxb\Desktop\winform抢课\TakeLessons - 0.4.x新版\TakeLessons\bin\Debug\ZQU抢课.exe.config
+C:\Users\zxb\Desktop\winform抢课\TakeLessons - 0.4.x新版\TakeLessons\bin\Debug\ZQU抢课.exe
+C:\Users\zxb\Desktop\winform抢课\TakeLessons - 0.4.x新版\TakeLessons\bin\Debug\ZQU抢课.pdb
+C:\Users\zxb\Desktop\winform抢课\TakeLessons - 0.4.x新版\TakeLessons\obj\Debug\TakeLessons.Form1.resources
+C:\Users\zxb\Desktop\winform抢课\TakeLessons - 0.4.x新版\TakeLessons\obj\Debug\TakeLessons.FrmLoading.resources
+C:\Users\zxb\Desktop\winform抢课\TakeLessons - 0.4.x新版\TakeLessons\obj\Debug\TakeLessons.main.resources
+C:\Users\zxb\Desktop\winform抢课\TakeLessons - 0.4.x新版\TakeLessons\obj\Debug\TakeLessons.Properties.Resources.resources
+C:\Users\zxb\Desktop\winform抢课\TakeLessons - 0.4.x新版\TakeLessons\obj\Debug\TakeLessons.csproj.GenerateResource.cache
+C:\Users\zxb\Desktop\winform抢课\TakeLessons - 0.4.x新版\TakeLessons\obj\Debug\TakeLessons.csproj.CoreCompileInputs.cache
+C:\Users\zxb\Desktop\winform抢课\TakeLessons - 0.4.x新版\TakeLessons\obj\Debug\ZQU抢课.exe
+C:\Users\zxb\Desktop\winform抢课\TakeLessons - 0.4.x新版\TakeLessons\obj\Debug\ZQU抢课.pdb
+C:\Users\zxb\Desktop\winform抢课\TakeLessons - 0.4.x新版\TakeLessons\obj\Debug\TakeLessons.FrmUpdate.resources
