@@ -1,23 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Data.SqlClient;
 using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Windows.Forms;
-using System.IO;
 using System.Threading;
-using System.Diagnostics;
-
+using TakeLessons.common;
 namespace TakeLessons
 {
     public partial class Form1 : Form
     {
         public LessonUtils lessonUtils = null;
-        // 版本号，用来判断是否需要更新
-        public static string version = "0.44";
+        
         //是否过期
         public bool isOverDue = false;
         // 加载中窗体工厂类
@@ -25,6 +17,7 @@ namespace TakeLessons
         public Form1()
         {
             InitializeComponent();
+            
             CheckForIllegalCrossThreadCalls = false;
         }
 
@@ -113,7 +106,7 @@ namespace TakeLessons
                     return;
                 }
                 // 需要更新
-                if (double.Parse(lessonUtils.json["version"]) > double.Parse(version))
+                if (double.Parse(lessonUtils.json["version"]) > double.Parse(Parameter.version))
                 {
                     FrmUpdate frmUpdate = new FrmUpdate(lessonUtils.json["version"]);
                     frmUpdate.ShowDialog();
@@ -284,12 +277,9 @@ namespace TakeLessons
         {
             notice.Left--;
             if (notice.Right <= 0)
+            {
                 notice.Left = this.Width;
-        }
-
-        private void Form1_Shown(object sender, EventArgs e)
-        {
-
+            }
         }
     }
 }
